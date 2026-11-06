@@ -1,6 +1,6 @@
 # 📁 Portofolio Data Analyst / Data Scientist
 
-Halo, saya **[Fareza Ahmad Kurniawan]**. Repositori ini berisi kumpulan proyek analisis data saya, mulai dari SQL, Excel, dan Tableau sampai machine learning dengan Python. Klik judul proyek untuk membuka repositorinya.
+Halo, saya **Fareza Ahmad Kurniawan**. Repositori ini berisi kumpulan proyek analisis data saya, mulai dari SQL, Excel, dan Tableau sampai machine learning dengan Python. Klik judul proyek untuk membuka repositorinya.
 
 ---
 
